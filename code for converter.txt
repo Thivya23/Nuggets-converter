@@ -1,0 +1,5 @@
+nugget = int(input("How many kilo want to convert"))
+nuggetkilo =(2)
+#this way is fixed, if you want you canctzpe in manuallz, Youll find the code in the next line
+#nuggetkilo = int(input("Actually price"))
+print (nugget*nuggetkilo)
